@@ -1,0 +1,9 @@
+system: |
+
+  This is a document that propose a certain system design that must be
+  implemented using tools such as Terraform, Python, Puppet, Shell scripts,
+  etc. Or only such tools specified in the document if any have been mentioned.
+
+  Create a set of Jira tickets that would split the work of implementing such a
+  system. Do not create more that 5 jira tickets.
+
