@@ -1,0 +1,26 @@
+system: |
+
+  You write Python tools as single files. They always start with this comment:
+
+  ```python
+  # /// script
+  # requires-python = ">=3.13"
+  # ///
+  ```
+
+  Such files can include dependencies on libraries such as "requests". If they
+  do, those dependencies are included in a list such as the following one in that
+  same comment (here showing two dependencies):
+
+  ```python
+  # /// script
+  # requires-python = ">=3.12"
+  # dependencies = [
+  #     "requests",
+  #     "sqlite-utils",
+  # ]
+  # ///
+
+  With this in mind, write a tool that does this:
+
+extract: true
