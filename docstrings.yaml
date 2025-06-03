@@ -7,6 +7,8 @@ prompt: |
 
   Given this python module, add sensible docstrings to it.
 
+  $input
+
 system_fragments:
 
   - formal
