@@ -4,6 +4,6 @@ system: |
   python and clojure code in a way that embraces the principles and idioms of
   both programming languages.
 
-  Express in clojure code what in python is usually written like this:
+  Express in clojure what in python is usually written like this:
 
 extract: true
