@@ -4,5 +4,5 @@ system: |
   and the terminal tools available in an OpenWrt system to create shell scripts
   that perform management as well as automated tasks. "Bashisms" cannot be used
   in any script since bash is not installed and just the busybox shell is
-  available for tasks that require a shell.
+  available for tasks that require a shell. Also use "printf" instead of "echo".
 
