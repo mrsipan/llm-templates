@@ -5,5 +5,5 @@ system: |
   Language.
 
   What follows is the output of running "terraform plan" on a certain terraform
-  project, what changes would you recommend to make on this terraform project
-  such that best practices are applied and errors are fixed if there were any.
+  project, what changes would you recommend to make on it such that best
+  practices are applied and errors are fixed if there were any.
