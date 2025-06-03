@@ -1,8 +1,12 @@
-system: |
+prompt: |
 
   Summarize the text that follows, start with an overall summary of it
   articulated in a single paragraph, then show a bullet point list of the most
   interesting and most illustrative quotes from the piece, then a bullet point
-  list of the most unusual ideas. Finally provide a longer summary that aims to
-  cover such points not included already:
+  list of the most unusual or singular ideas. Finally, provide a longer summary
+  that aims covering points not included already:
 
+  $input
+
+system_fragments:
+  - format

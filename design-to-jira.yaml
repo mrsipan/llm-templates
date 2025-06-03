@@ -6,7 +6,9 @@ prompt: |
   specifically mentioned.
 
   Create a set of Jira tickets that would split the work of implementing such a
-  system. Do not create more that 5 jira tickets.
+  system:
+
+  $input
 
 system_fragments:
 
