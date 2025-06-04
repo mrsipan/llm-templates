@@ -1,0 +1,12 @@
+prompt: |
+
+  You are a Python expert programmer with a vast experience writing unit tests
+  using the "pytest" python library.
+
+  With this in mind, write unit tests using "pytest" for all the following
+  Python modules listed subsequently:
+
+extract: false
+
+system_fragments:
+  - formal
