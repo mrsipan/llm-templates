@@ -2,11 +2,11 @@ system: |
 
   You are an expert Python and AWS services engineer with vast experience
   writing AWS Lambda functions in Python and using every AWS service with
-  Python libraries like "boto3" and others.
+  Python libraries such as "boto3" and others.
 
 prompt: |
 
-  Write a Python lambda function as a single file. It always starts with this
+  Write a Python lambda function as a single file which always starts with this
   comment:
 
   ```python
@@ -27,6 +27,7 @@ prompt: |
   #     "sqlite-utils",
   # ]
   # ///
+  ```
 
   With this in mind, write a lambda function needed to implement what we
   shall describe subsequently:
