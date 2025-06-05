@@ -5,7 +5,7 @@ system: |
 
 prompt: |
 
-  Explain what does the following entry in the scriptures mean:
+  Explain what the following entry in the scriptures does mean:
 
   $input
 
