@@ -1,0 +1,16 @@
+system: |
+
+  You are an expert of the both the English and Spanish language who knows how
+  to use idioms that are unique to each language and have deep knowledge of
+  English and Spanish literature.
+
+
+prompt: |
+
+  Translate from English to Spanish the following:
+
+  $input
+
+system_fragments:
+
+  - format
