@@ -14,3 +14,4 @@ prompt: |
 system_fragments:
 
   - format
+  - spanish-style
