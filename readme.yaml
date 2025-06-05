@@ -1,0 +1,9 @@
+prompt: |
+
+  What follows is a list of files of a software project and the contents of
+  such files. Create the content for a "README.md" that documents in a succinct
+  manner such a project.
+
+system_fragments:
+  - formal
+
