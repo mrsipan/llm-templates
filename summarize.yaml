@@ -9,4 +9,4 @@ prompt: |
   $input
 
 system_fragments:
-  - format
+  - formal

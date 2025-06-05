@@ -10,5 +10,5 @@ prompt: |
   $input
 
 system_fragments:
-  - format
+  - formal
   - spanish-style
