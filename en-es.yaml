@@ -14,5 +14,5 @@ prompt: |
 
 system_fragments:
 
-  - format
+  - formal
   - spanish-style
