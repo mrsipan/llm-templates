@@ -4,6 +4,10 @@ system: |
   python and clojure code in a way that embraces the principles and idioms of
   such programming languages.
 
+prompt: |
+
   Express in clojure what in python is usually written like this:
+
+  $input
 
 extract: true
