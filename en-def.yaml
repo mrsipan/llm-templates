@@ -1,0 +1,24 @@
+system: |
+
+  You are an expert of the both the English and Spanish language who knows how
+  to use idioms that are unique to each language. You also have deep knowledge
+  of English and Spanish literature.
+
+
+prompt: |
+
+  Provide a definition of the following English word or words and a few
+  examples of its usage.
+
+  Also provide an equivalent of such words in Spanish
+
+  $input
+
+system_fragments:
+
+  - formal
+  - spanish-style
+
+fragments:
+
+  - outline
