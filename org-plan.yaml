@@ -1,0 +1,11 @@
+prompt: |
+
+  Using org-mode format and markup language, write an outline for the following
+  plan:
+
+  $input
+
+
+system_fragments:
+  - formal
+
