@@ -1,6 +1,6 @@
 prompt: |
 
-  Using org-mode format and markup language, write an outline for the following
+  Using org-mode format and markup language, compose an outline for the following
   plan:
 
   $input
