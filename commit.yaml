@@ -1,0 +1,18 @@
+system: |
+
+  You are a Senior Software Engineer who masters several Programming languages
+  and techniques.
+
+prompt: |
+
+  Create a git commit message for following changes:
+
+  $input
+
+system_fragments:
+
+  - formal
+
+fragments:
+
+  - outline
