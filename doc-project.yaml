@@ -1,0 +1,14 @@
+prompt: |
+
+  $input
+
+  The source code of an in-house project is delimited between "=====" marks. Their files' names between "~~~" marks and the respective contents of such files are delimited between "```" marks.
+
+  With this information, write a documentation for this project.
+
+  At the end, provide improvements that may be applied.
+
+
+system_fragments:
+  - formal
+
